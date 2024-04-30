@@ -21,6 +21,7 @@ Este proyecto consiste en cargar, procesar y analizar el conjunto de datos CIFAR
 
 ## Instrucciones de Uso
 Asegúrate de instalar todas las dependencias listadas y ejecutar las celdas en el orden proporcionado para reproducir los resultados correctamente.
+En colab, abre tu script 'Parcial 2 ML(2).ipynb' y ejecuta todas las celdas para mayor facilidad.
 
 ## Resultados
 El análisis muestra la relación entre el número de ejemplos de entrenamiento y la precisión del modelo, demostrando cómo se puede ajustar para mejorar la precisión.
